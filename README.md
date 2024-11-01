@@ -1,13 +1,14 @@
-#Task 1 - Requirements
-https://roadmap.sh/projects/server-stats
+# Task 1 - Requirements
 
-<p>You are required to write a script server-stats.sh that can analyse basic server performance stats. You should be able to run the script on any Linux server and it should give you the following stats: </p>
+[Link para o projeto](https://roadmap.sh/projects/server-stats)
 
-1.Total CPU usage
-2.Total memory usage (Free vs Used including percentage)
-3.Total disk usage (Free vs Used including percentage)
-4.Top 5 processes by CPU usage
-5.Top 5 processes by memory usage
-6.Stretch goal: Feel free to optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
+Você é solicitado a escrever um script `server-stats.sh` que pode analisar estatísticas básicas de desempenho do servidor. Você deve ser capaz de executar o script em qualquer servidor Linux e ele deve fornecer as seguintes estatísticas:
+
+1. Total de uso da CPU
+2. Total de uso da memória (Livre vs. Usada, incluindo porcentagem)
+3. Total de uso do disco (Livre vs. Usado, incluindo porcentagem)
+4. Top 5 processos por uso de CPU
+5. Top 5 processos por uso de memória
+6. **Stretch goal**: Sinta-se à vontade para adicionar mais estatísticas, como versão do OS, tempo de atividade, média de carga, usuários conectados, tentativas de login falhadas etc.
 
 
